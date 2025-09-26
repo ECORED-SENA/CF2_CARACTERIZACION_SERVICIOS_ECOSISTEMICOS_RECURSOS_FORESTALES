@@ -7,9 +7,9 @@
         span 1
       h1 Objetivos de Desarrollo Sostenible
     
-    p Con el fin de establecer metas concretas para enfrentar los grandes retos globales, en 2015 se creó la Agenda 2030, que se convirtió en la hoja de ruta para el desarrollo sostenible. Este plan de acción global, impulsado por las Naciones Unidas, plantea 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas de carácter integrado e indivisible, que abarcan aspectos económicos, sociales y ambientales (Organización de las Naciones Unidas, 2015).
+    p Con el fin de establecer metas concretas para enfrentar los grandes retos globales, en 2015 se creó la #[strong Agenda 2030], que se convirtió en la hoja de ruta para el desarrollo sostenible. Este plan de acción global, impulsado por las #[strong Naciones Unidas], plantea #[strong 17 Objetivos de Desarrollo Sostenible (ODS)] con #[strong 169 metas] de carácter integrado e indivisible, que abarcan aspectos #[strong económicos, sociales y ambientales] (Organización de las Naciones Unidas, 2015).
 
-    p.mb-5 Los ODS, también conocidos por su sigla en inglés <em>SDGs (Sustainable Development Goals)</em>, se enfocan en las siguientes temáticas principales:
+    p.mb-5 Los ODS, también conocidos por su sigla en inglés #[em SDGs (Sustainable Development Goals)], se enfocan en las siguientes temáticas principales:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -19,7 +19,7 @@
         
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/1.png', alt='La imagen presenta los 17 objetivos de desarrollo sostenible establecidos en la Agenda 2030, siendo esta un conjunto de metas a cumplir por parte de países firmantes, se resalta el objetivo 12 y el 15, los cuales están relacionados con la gestión de los bosques.')
-          figcaption Nota. Organización Naciones Unidas. (2015).
+          figcaption Nota. Organización de las Naciones Unidas. (2015).
     
     p.mb-5 Respecto a los recursos forestales, los Objetivos de Desarrollo Sostenible abordan su gestión desde distintas perspectivas:
 

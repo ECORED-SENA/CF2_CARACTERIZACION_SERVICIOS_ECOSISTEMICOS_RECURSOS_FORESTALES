@@ -242,7 +242,7 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Cuál es un producto forestal no maderable?.',
+          texto: '¿Cuál es un producto forestal no maderable?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

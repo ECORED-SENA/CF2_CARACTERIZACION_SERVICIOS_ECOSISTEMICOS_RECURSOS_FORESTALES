@@ -7,13 +7,13 @@
         span 2
       h1 Problemáticas ambientales
     
-    p La afectación de los ecosistemas forestales a nivel local, regional y global se ha producido debido a diversas problemáticas ambientales. Estas no solo generan transformaciones en los bosques como tal, sino que también impactan directamente a las comunidades rurales y urbanas, que sufren las consecuencias de fenómenos sociales, económicos y ecológicos.
+    p La afectación de los #[strong ecosistemas forestales] a nivel local, regional y global se ha producido debido a diversas #[strong problemáticas ambientales]. Estas no solo generan transformaciones en los bosques como tal, sino que también impactan directamente a las #[strong comunidades rurales y urbanas], que sufren las consecuencias de fenómenos sociales, económicos y ecológicos.
     separador
     
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Deforestación
     
-    p.mb-5 En Colombia, los ecosistemas de bosques representan el 7,1 % de la superficie forestal de Sudamérica, lo que equivale al 52 % del territorio nacional, con aproximadamente 60 millones de hectáreas (Departamento Nacional de Planeación, 2020). A pesar de ser un país megadiverso, enfrenta altas tasas de deforestación en ecosistemas clave como la Amazonía y el Pacífico Colombiano.
+    p.mb-5 En #[strong Colombia], los ecosistemas de bosques representan el #[strong 7,1 % de la superficie forestal de Sudamérica], lo que equivale al #[strong 52 % del territorio nacional], con aproximadamente 60 millones de hectáreas (Departamento Nacional de Planeación, 2020). A pesar de ser un país megadiverso, enfrenta altas tasas de deforestación en ecosistemas clave como la Amazonía y el Pacífico Colombiano.
 
     .row.mb-5
       .col-lg-6.mb-3.mb-lg-0
@@ -28,7 +28,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/3.png')})`}"
       )(data-aos="zoom-in")
       .bloque-texto-g__texto.p-4
-        p.mb-0 Según el Ministerio de Ambiente y Desarrollo Sostenible (2024), aunque en 2023 se estimó una reducción de la deforestación entre el 25 % y el 35 %, en 2024 se reportó un aumento de esta problemática. Esta situación no solo afecta a los ecosistemas, sino también a las comunidades que desarrollan programas de conservación, al tiempo que se agravan fenómenos como el desplazamiento forzado de campesinos y los conflictos territoriales, que dificultan el acceso de las entidades públicas a estos territorios.
+        p.mb-0 Según el #[strong Ministerio de Ambiente y Desarrollo Sostenible (2024)], aunque en #[strong 2023 se estimó una reducción de la deforestación entre el 25 % y el 35 %], en #[strong 2024] se reportó un #[strong aumento] de esta problemática. Esta situación no solo afecta a los ecosistemas, sino también a las comunidades que desarrollan programas de conservación, al tiempo que se agravan fenómenos como el desplazamiento forzado de campesinos y los conflictos territoriales, que dificultan el acceso de las entidades públicas a estos territorios.
     
     p.mb-5 A continuación, se presentan las principales causas del incremento de la deforestación:
 
@@ -78,7 +78,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Incendios forestales
     
-    p.mb-5 Los incendios forestales se han convertido en una problemática ambiental creciente, estrechamente relacionada con fenómenos de variabilidad climática, como las épocas de intensa sequía, que se han intensificado en los últimos años. Esta situación actúa en sinergia con factores como la expansión de fronteras agrícolas, generando impactos significativos en diversas regiones del mundo. Su aumento está directamente vinculado a problemáticas globales, como el cambio climático.
+    p.mb-5 Los #[strong incendios forestales] se han convertido en una problemática ambiental creciente, estrechamente relacionada con fenómenos de #[strong variabilidad climática], como las #[strong épocas de intensa sequía], que se han intensificado en los últimos años. Esta situación actúa en sinergia con factores como la #[strong expansión de fronteras agrícolas], generando impactos significativos en diversas regiones del mundo. Su aumento está directamente vinculado a #[strong problemáticas globales], como el #[strong cambio climático].
 
     .bg-color-7.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -87,7 +87,7 @@
             img(src='@/assets/curso/tema2/12.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") A nivel global, en 2024, la pérdida de bosques causada por incendios forestales superó la de años anteriores, tanto en términos de extensión de áreas afectadas como en la magnitud de los impactos. Según el World Resources Institute (2025), estos eventos han provocado un incremento de más de cuatro veces en las emisiones contaminantes, con efectos devastadores no solo en los ecosistemas, sino también en las condiciones climáticas y en la salud y seguridad de las personas. En este contexto, es importante identificar los principales factores asociados a la ocurrencia de incendios forestales, así como sus impactos ambientales y sociales más relevantes:
+            p.mb-0(data-aos="fade-up") A nivel global, en 2024, la pérdida de bosques causada por incendios forestales superó la de años anteriores, tanto en términos de extensión de áreas afectadas como en la magnitud de los impactos. Según el #[em World Resources Institute (2025)], estos eventos han provocado un incremento de más de cuatro veces en las emisiones contaminantes, con efectos devastadores no solo en los ecosistemas, sino también en las condiciones climáticas y en la salud y seguridad de las personas. En este contexto, es importante identificar los principales factores asociados a la ocurrencia de incendios forestales, así como sus #[strong impactos ambientales y sociales más relevantes]:
     
     .bg-full-width.bg-fondo-slider
       .p-4.p-md-5
@@ -133,7 +133,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.3 Cambio climático
     
-    p.mb-5 El cambio climático es una problemática de escala global que afecta a todas las regiones del planeta. Se refiere a la alteración de las condiciones climáticas medias de una región durante periodos prolongados, generalmente evaluados con datos de más de 30 años. Es importante no confundirlo con la variabilidad climática, la cual corresponde a cambios temporales en el clima en periodos más cortos. Una diferencia clave entre ambos conceptos es la siguiente:
+    p.mb-5 El #[strong cambio climático] es una problemática de escala global que afecta a todas las regiones del planeta. Se refiere a la #[strong alteración de las condiciones climáticas medias] de una región durante periodos prolongados, generalmente evaluados con datos de más de #[strong 30 años]. Es importante #[strong no confundirlo con la variabilidad climática], la cual corresponde a #[strong cambios temporales en el clima] en periodos más cortos. Una diferencia clave entre ambos conceptos es la siguiente:
 
     .row.justify-content-center.mb-3
       .col-lg-4(data-aos="fade-down").mb-3.mb-lg-0
@@ -151,21 +151,21 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8
-        p.mb-0.bg-color-sintesis.p-4 Según Cortés y Pineda (2020), El Niño se asocia con periodos de intenso verano, mientras que La Niña se relaciona con épocas de fuertes lluvias o intenso invierno.
+        p.mb-0.bg-color-sintesis.p-4 Según Cortés y Pineda (2020), El Niño se asocia con #[strong periodos de intenso verano], mientras que La Niña se relaciona con #[strong épocas de fuertes lluvias o intenso invierno].
     
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-3
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/20.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p Estas condiciones extremas tienen impactos directos sobre los ecosistemas forestales:
+        p Estas condiciones extremas tienen impactos directos sobre los #[strong ecosistemas forestales]:
         ul.lista-ul--color.mt-3
           li.mb-3.d-flex
             i.fas.fa-circle-check.bg-color-5
-            p.mb-0 Las olas de calor provocadas por eventos de variabilidad climática generan escasez de agua, estrés en especies vegetales y mayor riesgo de incendios forestales (Organización de las Naciones Unidas, 2025).
+            p.mb-0 Las #[strong olas de calor] provocadas por eventos de variabilidad climática generan #[strong escasez de agua], #[strong estrés en especies vegetales] y #[strong mayor riesgo de incendios forestales] (Organización de las Naciones Unidas, 2025).
           li.mb-3.d-flex
             i.fas.fa-circle-check.bg-color-5
-            p.mb-0 Por otro lado, los periodos de lluvias intensas pueden ocasionar movimientos en masa, procesos erosivos y otras afectaciones al suelo y la vegetación, lo que deteriora la calidad ambiental de diversas regiones.
+            p.mb-0 Por otro lado, los #[strong periodos de lluvias intensas] pueden ocasionar #[strong movimientos en masa], #[strong procesos erosivos] y otras afectaciones al suelo y la vegetación, lo que deteriora la #[strong calidad ambiental] de diversas regiones.
     
     .row.justify-content-center
       .col-lg-10
